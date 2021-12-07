@@ -222,7 +222,6 @@ var shop = function() {
       break;
   }
 };
-
 /* END GAME FUNCTIONS */
 
 /* RUN GAME */
